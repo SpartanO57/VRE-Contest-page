@@ -1,11 +1,5 @@
-function user() {
-  var user = document.getElementById('userForm').value;
-  alert(user);
-}
+var name = [];
 
-var userArr = [];
-
-function addUser(user) {
-  userArr.push(user);
-    console.log("name: " + userArr.join(","));
+function addName() {
+var name = getElementById('userForm').push;
 }
