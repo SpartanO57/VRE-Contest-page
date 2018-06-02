@@ -1,5 +1,5 @@
 var nameArr = [];
 
 function addName() {
-var name = getElementById('userForm').push;
+nameArr = getElementById('userForm').push;
 }
